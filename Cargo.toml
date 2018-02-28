@@ -1,0 +1,6 @@
+[package]
+name = "before_midnight"
+version = "0.1.0"
+authors = ["Klaudiusz Fabryczny <klodus@gmail.com>"]
+
+[dependencies]
